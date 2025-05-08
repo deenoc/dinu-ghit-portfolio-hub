@@ -86,7 +86,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="border-t border-border pt-6 text-center text-muted-foreground text-sm">
-          <p>&copy; {new Date().getFullYear()} {contact.name || "Dinu Ghit"}. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Dinu Ghit. All rights reserved.</p>
         </div>
       </div>
     </footer>
