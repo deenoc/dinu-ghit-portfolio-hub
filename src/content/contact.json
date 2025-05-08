@@ -1,0 +1,24 @@
+
+{
+  "title": "Contact",
+  "subtitle": "Let's discuss how I can help your organization succeed",
+  "email": "dinu.ghit@example.com",
+  "phone": "+40 123 456 789",
+  "linkedin": "https://linkedin.com/in/dinughit",
+  "city": "Bucharest, Romania",
+  "ctaText": "Book a Consultation",
+  "languages": [
+    {
+      "language": "Romanian",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "C2"
+    },
+    {
+      "language": "French",
+      "level": "A2"
+    }
+  ]
+}

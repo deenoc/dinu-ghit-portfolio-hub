@@ -1,0 +1,27 @@
+
+{
+  "title": "Services Offered",
+  "subtitle": "Expert consulting solutions to elevate your business",
+  "serviceItems": [
+    {
+      "title": "Project Management",
+      "description": "End-to-end project oversight, budgeting, stakeholder alignment, and delivery of software and technology solutions on time and on budget.",
+      "icon": "layout-dashboard"
+    },
+    {
+      "title": "Program Management",
+      "description": "Cross-project orchestration, risk mitigation, and roadmap delivery ensuring all initiatives are aligned with organizational goals.",
+      "icon": "calendar"
+    },
+    {
+      "title": "Software Delivery Leadership",
+      "description": "Agile workflows implementation, CI/CD pipeline establishment, engineering team mentorship, and technical solution guidance.",
+      "icon": "code"
+    },
+    {
+      "title": "Organizational Transformation",
+      "description": "Agile coaching, team scaling strategies, change management, and building high-performing collaborative environments.",
+      "icon": "users"
+    }
+  ]
+}

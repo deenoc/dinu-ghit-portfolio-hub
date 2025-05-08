@@ -1,0 +1,19 @@
+
+{
+  "title": "About",
+  "summary": "I am a seasoned consultant specializing in guiding organizations through complex digital transformations and software delivery challenges. My approach focuses on building collaborative environments that drive efficiency while maintaining a positive, empowered team culture. I believe in transparent communication and leading by example, ensuring all stakeholders remain aligned throughout the project lifecycle.",
+  "strengths": [
+    {
+      "title": "Leadership & Team Structuring",
+      "description": "Creating high-performing teams by establishing clear roles, fostering open communication, and implementing efficient workflows."
+    },
+    {
+      "title": "Empowerment & Culture-building",
+      "description": "Developing team cultures focused on innovation, continuous improvement, and collective ownership of outcomes."
+    },
+    {
+      "title": "Strategic Execution",
+      "description": "Translating business vision into actionable roadmaps and technical solutions that deliver measurable results."
+    }
+  ]
+}

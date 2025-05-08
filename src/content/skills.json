@@ -1,0 +1,65 @@
+
+{
+  "title": "Skills & Certifications",
+  "subtitle": "Areas of expertise and professional credentials",
+  "categories": [
+    {
+      "name": "Project Management",
+      "skills": ["Agile", "Scrum", "SAFe", "Waterfall", "Hybrid", "JIRA", "MS Project", "Monday.com"]
+    },
+    {
+      "name": "Leadership",
+      "skills": ["Team Building", "Stakeholder Management", "Executive Communications", "Coaching", "Mentoring"]
+    },
+    {
+      "name": "Technical",
+      "skills": ["DevOps", "CI/CD", "Cloud Platforms", "GCP", "VMware", "AWS", "Azure"]
+    },
+    {
+      "name": "Process",
+      "skills": ["Risk Mitigation", "Quality Assurance", "Change Management", "Process Optimization"]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Project Management Professional (PMP)",
+      "issuer": "PMI",
+      "year": "2018"
+    },
+    {
+      "name": "Certified Scrum Product Owner (CSPO)",
+      "issuer": "Scrum Alliance",
+      "year": "2019"
+    },
+    {
+      "name": "Google Agile Project Management",
+      "issuer": "Google",
+      "year": "2021"
+    },
+    {
+      "name": "Google Cybersecurity",
+      "issuer": "Google",
+      "year": "2022"
+    },
+    {
+      "name": "Generative AI for Project Managers",
+      "issuer": "LinkedIn Learning",
+      "year": "2023"
+    },
+    {
+      "name": "Machine Learning Foundations",
+      "issuer": "IBM",
+      "year": "2022"
+    },
+    {
+      "name": "ChatGPT for Project Management",
+      "issuer": "Udemy",
+      "year": "2023"
+    },
+    {
+      "name": "ISTQB Foundation Level",
+      "issuer": "ISTQB",
+      "year": "2017"
+    }
+  ]
+}

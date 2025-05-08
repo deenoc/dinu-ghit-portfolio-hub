@@ -1,0 +1,12 @@
+
+{
+  "menuItems": [
+    { "label": "Home", "link": "#home" },
+    { "label": "Services", "link": "#services" },
+    { "label": "About", "link": "#about" },
+    { "label": "Skills", "link": "#skills" },
+    { "label": "Testimonials", "link": "#testimonials" },
+    { "label": "Hobby", "link": "#hobby" },
+    { "label": "Contact", "link": "#contact" }
+  ]
+}

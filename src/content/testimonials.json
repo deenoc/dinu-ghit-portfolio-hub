@@ -1,0 +1,25 @@
+
+{
+  "title": "Testimonials",
+  "subtitle": "What clients and colleagues say about working with me",
+  "testimonialItems": [
+    {
+      "name": "Alex Thompson",
+      "role": "CTO, Software Solutions Inc.",
+      "quote": "Dinu's approach to managing our enterprise software delivery was exceptional. He navigated complex stakeholder requirements while keeping our engineering team motivated and focused. The result was a successful launch that exceeded our expectations.",
+      "linkedin": "https://linkedin.com/in/alexthompson"
+    },
+    {
+      "name": "Sarah Miller",
+      "role": "VP of Product, TechInnovate",
+      "quote": "Working with Dinu transformed how we approach project management. His methodical yet flexible style helped us adapt to changing market demands while maintaining delivery momentum. I highly recommend his services for any organization undergoing digital transformation.",
+      "linkedin": "https://linkedin.com/in/sarahmiller"
+    },
+    {
+      "name": "Michael Chen",
+      "role": "Engineering Manager, Enterprise Solutions",
+      "quote": "Dinu brings a rare combination of technical understanding and leadership skill. He effectively bridges the gap between business stakeholders and engineering teams, creating an environment where everyone feels heard and projects consistently succeed.",
+      "linkedin": "https://linkedin.com/in/michaelchen"
+    }
+  ]
+}
