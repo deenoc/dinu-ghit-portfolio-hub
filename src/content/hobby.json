@@ -6,22 +6,22 @@
     {
       "title": "Thumbmagic",
       "description": "AI-powered thumbnail generator that creates optimized images for blogs, social media, and video platforms using machine learning algorithms.",
-      "url": "https://thumbmagic.app"
+      "url": "https://thumbmagic.vercel.app/"
     },
     {
       "title": "PokerAce",
       "description": "Online Texas Hold'em poker engine with multiplayer capabilities, hand analysis, and AI opponents for practicing strategy.",
-      "url": "https://pokerace.app"
+      "url": "https://poker-ace.onrender.com/"
     },
     {
       "title": "Finance Tracker",
       "description": "Budget and expense dashboard with visualization tools, goal setting, and personalized insights for better financial management.",
-      "url": "https://finance-tracker.app"
+      "url": "https://productivity-pro.onrender.com/dashboard"
     },
     {
       "title": "Tourism Dashboard (Romania)",
       "description": "Interactive data visualization project analyzing tourism trends in Romania, built with Google Colab and Google Cloud Platform services.",
-      "url": "https://romania-tourism.app"
+      "url": "https://colab.research.google.com/drive/1R3p0oPZjxkcAL4OcXuEQ3oc-RP2xFqyZ"
     }
   ]
 }

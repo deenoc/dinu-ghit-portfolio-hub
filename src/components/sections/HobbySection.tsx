@@ -3,10 +3,26 @@ import React from 'react';
 import { getHobbyContent } from '@/utils/cms-loader';
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { ExternalLink } from 'lucide-react';
+import { ExternalLink, Image, Dice6, ChartPie, Map } from 'lucide-react';
 
 const HobbySection: React.FC = () => {
   const { title, subtitle, projectItems } = getHobbyContent();
+
+  // Function to get the appropriate icon based on project title
+  const getProjectIcon = (projectTitle: string) => {
+    switch (projectTitle) {
+      case 'Thumbmagic':
+        return <Image className="h-6 w-6 text-primary" />;
+      case 'PokerAce':
+        return <Dice6 className="h-6 w-6 text-primary" />;
+      case 'Finance Tracker':
+        return <ChartPie className="h-6 w-6 text-primary" />;
+      case 'Tourism Dashboard (Romania)':
+        return <Map className="h-6 w-6 text-primary" />;
+      default:
+        return <ExternalLink className="h-6 w-6 text-primary" />;
+    }
+  };
 
   return (
     <section id="hobby" className="section bg-muted/30">
@@ -18,7 +34,10 @@ const HobbySection: React.FC = () => {
           {projectItems.map((project, index) => (
             <Card key={index} className="border-2 card-hover reveal">
               <CardHeader className="pb-2">
-                <CardTitle className="text-xl font-heading">{project.title}</CardTitle>
+                <div className="flex items-center gap-3">
+                  {getProjectIcon(project.title)}
+                  <CardTitle className="text-xl font-heading">{project.title}</CardTitle>
+                </div>
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
