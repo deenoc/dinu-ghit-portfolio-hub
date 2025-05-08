@@ -1,25 +1,43 @@
 
 {
   "title": "Testimonials",
-  "subtitle": "What clients and colleagues say about working with me",
+  "subtitle": "What colleagues and clients say about my work",
   "testimonialItems": [
     {
-      "name": "Alex Thompson",
-      "role": "CTO, Software Solutions Inc.",
-      "quote": "Dinu's approach to managing our enterprise software delivery was exceptional. He navigated complex stakeholder requirements while keeping our engineering team motivated and focused. The result was a successful launch that exceeded our expectations.",
-      "linkedin": "https://linkedin.com/in/alexthompson"
+      "name": "Alexandru Motoc",
+      "role": "SW Engineering Management",
+      "quote": "He is now a seasoned engineering manager whose business acumen, senior leadership and people management experience are a great asset to an engineering organization. He can deliver reliably on the engineering projects, ensuring his team is ready and has the needed skills to do the job. I wholeheartedly recommend him for any future engineering management roles.",
+      "linkedin": "https://linkedin.com/in/alexandru-motoc"
     },
     {
-      "name": "Sarah Miller",
-      "role": "VP of Product, TechInnovate",
-      "quote": "Working with Dinu transformed how we approach project management. His methodical yet flexible style helped us adapt to changing market demands while maintaining delivery momentum. I highly recommend his services for any organization undergoing digital transformation.",
-      "linkedin": "https://linkedin.com/in/sarahmiller"
+      "name": "Roxana Poraicu",
+      "role": "Project Manager - Connectivity and Telematics domains at Luxoft",
+      "quote": "Throughout our time working together, Dinu has consistently exhibited exceptional professionalism and a strong technical background. He has not only been a reliable and knowledgeable leader but also an outstanding mentor. His willingness to offer support and his unique ability to foster a collaborative work environment have been invaluable.",
+      "linkedin": "https://linkedin.com/in/roxana-poraicu"
     },
     {
-      "name": "Michael Chen",
-      "role": "Engineering Manager, Enterprise Solutions",
-      "quote": "Dinu brings a rare combination of technical understanding and leadership skill. He effectively bridges the gap between business stakeholders and engineering teams, creating an environment where everyone feels heard and projects consistently succeed.",
-      "linkedin": "https://linkedin.com/in/michaelchen"
+      "name": "Karthik Manjunatha",
+      "role": "Automotive Industry Specialist - Senior Consultant at Amazon Web Services (AWS)",
+      "quote": "Dinu is a true asset to any team. He possesses a remarkable combination of strong leadership skills and a hands-on approach that consistently drives projects to success. Dinu's ability to inspire and motivate others is exceptional. He always goes above and beyond to ensure that team members feel valued and supported.",
+      "linkedin": "https://linkedin.com/in/karthik-manjunatha"
+    },
+    {
+      "name": "Marius Trestioreanu",
+      "role": "Account Director at Luxoft Professional Romania",
+      "quote": "Throughout time in his role as QA Project Lead, he demonstrated exceptional leadership, technical expertise, and high dedication for delivering high-quality results, often under time pressure. One of Dinu's key achievements was the successful design and deployment of a large-scale data center for VOIP Software Performance Testing.",
+      "linkedin": "https://linkedin.com/in/marius-trestioreanu"
+    },
+    {
+      "name": "Lisong Li",
+      "role": "Senior Manager, System Integration at Mercedes-Benz, RD China",
+      "quote": "Dinu consistently demonstrated a deep understanding of complex automotive SW systems and was instrumental in ensuring that our testing processes were both efficient and effective. His ability to manage a diverse team of engineers and testers was remarkable; he fostered an environment of collaboration and innovation.",
+      "linkedin": "https://linkedin.com/in/lisong-li"
+    },
+    {
+      "name": "Francisc Pitica, PMP",
+      "role": "Project Manager / Program Manager / Delivery Manager / Account Leader",
+      "quote": "During that time Dinu proved to be extremely involved in both technical and people management having to lead a team of more than 100 HC at the peak and keeping good and trustful relationship with the customer stakeholders at the same time. I liked that he continuously improved himself and gained new skills.",
+      "linkedin": "https://linkedin.com/in/francisc-pitica"
     }
   ]
 }

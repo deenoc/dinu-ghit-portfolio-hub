@@ -13,6 +13,12 @@ import ContactSection from '@/components/sections/ContactSection';
 import { getSiteSettings } from '@/utils/cms-loader';
 import { initScrollAnimation } from '@/utils/scroll-observer';
 
+interface WindowWithNetlify extends Window {
+  netlifyIdentity?: {
+    on: (event: string, callback: (user?: any) => void) => void;
+  };
+}
+
 const Index = () => {
   const { toast } = useToast();
   const settings = getSiteSettings();
@@ -25,10 +31,11 @@ const Index = () => {
     initScrollAnimation();
     
     // Add identity widget initialization for Netlify CMS
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
+    const windowWithNetlify = window as WindowWithNetlify;
+    if (windowWithNetlify.netlifyIdentity) {
+      windowWithNetlify.netlifyIdentity.on("init", (user) => {
         if (!user) {
-          window.netlifyIdentity.on("login", () => {
+          windowWithNetlify.netlifyIdentity?.on("login", () => {
             document.location.href = "/admin/";
           });
         }
